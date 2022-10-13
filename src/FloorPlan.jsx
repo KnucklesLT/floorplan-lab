@@ -2,7 +2,7 @@ import Bath from "./Bath";
 import Bedroom from "./Bedroom";
 import Kitchen from "./Kitchen";
 
-const FloorPlan = (props) => {
+const FloorPlan = () => {
   return ( 
     <div>
       <Bedroom bedNum={1} />
